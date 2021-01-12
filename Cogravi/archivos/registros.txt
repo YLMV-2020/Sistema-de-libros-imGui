@@ -1,0 +1,64 @@
+120
+El diario de Ana Frank
+Ana Frank
+biografia
+LEA
+iztaccihuatl
+0123456789
+iztaccihuatl@gmail.com
+121
+Antología poética
+Mario Benedetti
+poesía
+Alianza
+gandhi
+0123456789
+gandhi@outlook.com
+122
+En las montañas de la locura
+H.P Lovecraft
+literatura fantastica
+Alianza
+libreria porrua
+0123456789
+porrua@outlook.com
+123
+Pedro Paramo
+Juan Rulfo
+novela revolucionaria
+Fondo de Cultura Economica
+gandhi
+0123456789
+gandhi@outlook.com
+124
+Cuentos de miedo
+Charles Dickens
+terror
+Alianza
+libreria porrua
+0123456789
+porrua@outlook.com
+125
+it
+Stephen King
+ficcion
+Debolsillo
+la ventana
+0123456789
+ventana@ventas.com
+126
+La interpretacion del sueño
+Sigmund Freud
+ficcion
+fv editions
+la ventana
+0123456789
+ventana@ventas.com
+127
+El arte de la guerra
+Sun Tzu
+ficcion y literatura
+Aegitas
+gandhi
+0123456789
+gandhi@outlook.com
